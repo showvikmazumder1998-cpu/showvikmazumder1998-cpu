@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I am a computer science graduate.
 <!--
 **showvikmazumder1998-cpu/showvikmazumder1998-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
